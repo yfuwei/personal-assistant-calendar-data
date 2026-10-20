@@ -1,0 +1,15 @@
+{
+  "format": "personal-assistant.cn-holidays.manifest",
+  "formatVersion": 1,
+  "publishedAt": "2026-10-20T00:00:00Z",
+  "years": [
+    {
+      "year": 2026,
+      "revision": 1,
+      "version": "cn-2026-v1",
+      "path": "years/2026-v1.json",
+      "sha256": "f5b5bd601110c45fa60c86181544b48303e33f7b0ddd07c952f2f5d17fd91b98",
+      "bytes": 1950
+    }
+  ]
+}
